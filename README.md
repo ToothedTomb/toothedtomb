@@ -1,4 +1,5 @@
 # 💫 About Me:
+I am Jonathan Steadman, and I am a professional computing expert. This is my GitHub account for my programming work. <br>
 I'm currently working on Color Game Remaster with GTK and C++.<br>I'm looking to collaborate on Gnome Projects.<br>i'm currently learning PHP programming language.<br>Fun fact - I love playing Forza Horizon.<br>
 
 
